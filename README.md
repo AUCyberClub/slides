@@ -10,3 +10,4 @@ In the chronological order;
 - **auccBaharDonemi.pdf**: Spring meetup. Last semester of community and future plans.
 - **06git.pdf**: Git usage
 - **07hack_kulturu.pdf**: This slide contains; Culture of real hack and first hackers, ethical laws, Open Source and Free Software.
+- **10pentest.pdf**: Weekend camp for Penetration Test (contains OSINT & Network)
