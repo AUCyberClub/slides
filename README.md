@@ -11,3 +11,5 @@ In the chronological order;
 - **06git.pdf**: Git usage
 - **07hack_kulturu.pdf**: This slide contains; Culture of real hack and first hackers, ethical laws, Open Source and Free Software.
 - **10pentest.pdf**: Weekend camp for Penetration Test (contains OSINT & Network)
+- **11aucc_ctf.pdf**: Weekend camp for the definitions of CTF (Capture The Flag)
+- **12aucc_hardening.pdf**: linux system hardening slide
