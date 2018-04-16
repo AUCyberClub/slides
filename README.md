@@ -13,3 +13,4 @@ In the chronological order;
 - **10pentest.pdf**: Weekend camp for Penetration Test (contains OSINT & Network)
 - **11aucc_ctf.pdf**: Weekend camp for the definitions of CTF (Capture The Flag)
 - **12aucc_hardening.pdf**: linux system hardening slide
+- **13bash_scripting.pdf**: Bash Scripting large-scale slide
